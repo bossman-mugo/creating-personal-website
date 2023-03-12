@@ -1,0 +1,39 @@
+h1{
+
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    padding: auto;
+    color: #6495ED;
+
+}
+
+p {
+    padding:0px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+
+}
+
+.education {
+    border-style: double;
+    text-align: center;
+    table-layout: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hobby {
+    border-style: double;
+    text-align: center;
+    table-layout: auto;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+h2 {
+    text-size-adjust: 20px;
+    color: brown;
+}
+
